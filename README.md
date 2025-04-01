@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/trinadh6493/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/trinadh6493/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0118-pascals-triangle](https://github.com/trinadh6493/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/trinadh6493/DSA/tree/master/0119-pascals-triangle-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/trinadh6493/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/trinadh6493/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/trinadh6493/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/trinadh6493/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/trinadh6493/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/trinadh6493/DSA/tree/master/0119-pascals-triangle-ii) |
 ## Math
 |  |
 | ------- |
