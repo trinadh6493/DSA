@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trinadh6493/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/trinadh6493/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/trinadh6493/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0204-count-primes](https://github.com/trinadh6493/DSA/tree/master/0204-count-primes) |
 | [2308-divide-array-into-equal-pairs](https://github.com/trinadh6493/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/trinadh6493/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/trinadh6493/DSA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/trinadh6493/DSA/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/trinadh6493/DSA/tree/master/0204-count-primes) |
 ## Memoization
 |  |
 | ------- |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/trinadh6493/DSA/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/trinadh6493/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/trinadh6493/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
