@@ -1,4 +1,3 @@
-from numpy import ones, bool
 class Solution:
     def countPrimes(self, n: int) -> int:
         nums = [0, 0] + [1] * (n - 2)
@@ -7,4 +6,3 @@ class Solution:
                 for j in range(i*i,n,i):
                     nums[j]=0
         return sum(nums)
-         
