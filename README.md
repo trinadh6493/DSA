@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/trinadh6493/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/trinadh6493/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0204-count-primes](https://github.com/trinadh6493/DSA/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/trinadh6493/DSA/tree/master/1656-count-good-triplets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/trinadh6493/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/trinadh6493/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/trinadh6493/DSA/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/trinadh6493/DSA/tree/master/1656-count-good-triplets) |
 ## Number Theory
 |  |
 | ------- |
