@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/trinadh6493/DSA/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/trinadh6493/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/trinadh6493/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/trinadh6493/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/trinadh6493/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/trinadh6493/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/trinadh6493/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/trinadh6493/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/trinadh6493/DSA/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/trinadh6493/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/trinadh6493/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/trinadh6493/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/trinadh6493/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/trinadh6493/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/trinadh6493/DSA/tree/master/0204-count-primes) |
+| [2448-count-number-of-bad-pairs](https://github.com/trinadh6493/DSA/tree/master/2448-count-number-of-bad-pairs) |
 ## Memoization
 |  |
 | ------- |
