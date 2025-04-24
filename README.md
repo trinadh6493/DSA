@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/trinadh6493/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/trinadh6493/DSA/tree/master/0204-count-primes) |
 | [2448-count-number-of-bad-pairs](https://github.com/trinadh6493/DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2998-count-symmetric-integers](https://github.com/trinadh6493/DSA/tree/master/2998-count-symmetric-integers) |
 ## Memoization
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/trinadh6493/DSA/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/trinadh6493/DSA/tree/master/1656-count-good-triplets) |
+| [2998-count-symmetric-integers](https://github.com/trinadh6493/DSA/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
