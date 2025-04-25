@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/trinadh6493/DSA/tree/master/0029-divide-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/trinadh6493/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/trinadh6493/DSA/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/trinadh6493/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/trinadh6493/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/trinadh6493/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/trinadh6493/DSA/tree/master/0204-count-primes) |
